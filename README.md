@@ -1,6 +1,7 @@
 # Practical Python for data engineers — files, APIs, and pipeline basics
-Most Python tutorials focus on syntax. This repository is a collection of code snippets and patterns that I use everyday as data engineer.
-It focuses on practical use cases such as file handling, API integration, data transformation with pandas, and simple pipeline design.
+Most Python tutorials focus on syntax. But real-world engineering goes beyond that.
+This repository is a collection of practical Python examples covering common tasks such as file handling, API interaction, data transformation, and pipeline design.
+It reflects the kind of Python I wish I had focused on when I started.
 
 ## What's inside
 
