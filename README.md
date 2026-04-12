@@ -3,10 +3,6 @@ Most Python tutorials focus on syntax. But real-world data engineering is about 
 
 I created this repository to document practical Python examples covering common tasks such as file handling, API interaction, data transformation, and pipeline design. It covers the foundational patterns I wish I had known when I started — moving away from messy scripts toward structured, professional code.
 
-## ✍️ Author's Note — [Jieun Kim](https://www.linkedin.com/in/jieunk101/)
-This repository also serves as a living document of my commitment to writing clean and robust Python code.
-Beyond making code work, I focus on writing scripts that can handle the realities of production — imperfect data, unexpected failures, and evolving requirements.
-
 ## 🎯 Focus Areas
 This repo focuses on the essential best practices for any data engineer:
 
